@@ -14,15 +14,10 @@ header h2 {
     color: rgb(35, 94, 45);
 }
 
-footer {
-    background-image: linear-gradient(#CEC8FF, white);
-    padding: 20px 0;
-}
-
 .jumbotron {
-    padding: 30px;
     background-color: rgb(238, 219, 141);
     color: rgb(35, 94, 45);
+    margin-bottom: 0;
 }
 
 .row-content {
@@ -33,5 +28,13 @@ footer {
 
 .navbar {
     background-color: rgb(35, 94, 45);
+    margin-bottom: 0;
+    
+}
+
+footer {
+    background-color: rgb(35, 94, 45);
+    margin-left: -205px;
+    margin-right: -204px;
     
 }
